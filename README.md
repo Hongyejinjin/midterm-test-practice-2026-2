@@ -2,4 +2,4 @@
 
 *g++ main.cpp -o main && ./main*
 *g++ main1.cpp -o main && ./main*
-*g++ main2.cpp -o main && ./main*
+g++ main2.cpp -o main && ./main
